@@ -6,7 +6,7 @@ Team members and their email addresses:
 
 Connor Clifford: cjc240@pitt.edu
 
-H
+Harry King: jhk64@pitt.edu
 
 X
 
