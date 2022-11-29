@@ -3,7 +3,12 @@
 Team name: Kids Living Lovely Lives
 
 Team members and their email addresses: 
+
 Connor Clifford: cjc240@pitt.edu
+
+H
+
+X
 
 
 Description and links to the datasets used:
